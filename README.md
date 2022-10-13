@@ -18,4 +18,4 @@
 </div><br/>
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas.
-- Atualmente aprofundando meus conhecimentos em Python e Java.
+- Atualmente aprendendo Java e Python.
