@@ -3,6 +3,7 @@
 
 
 - 👨‍💻 Eu sou um estudante de Análise e Desenvolvimento de Sistemas.
+- 💼 Atualmente não trabalho na área, mas estou me especializando para que isso se torne possível.
 
 
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuniorbitencourt&show_icons=true&theme=codeSTACKr)
