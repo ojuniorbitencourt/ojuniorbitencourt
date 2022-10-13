@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Sobre Mim
-- Eu sou um estudante de Análise e Desenvolvimento de Sistemas.
+- Eu sou estudante de Análise e Desenvolvimento de Sistemas.
 
 
 ## 🔗 Links
