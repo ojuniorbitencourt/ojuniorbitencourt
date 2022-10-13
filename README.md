@@ -2,7 +2,7 @@
 # Olá! Eu sou o Júnior Bitencourt! 🖐️
 
 
-- 👨‍💻 Eu sou um estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Eu sou estudante de Análise e Desenvolvimento de Sistemas.
 - 💼 Atualmente não trabalho na área, mas estou me especializando para que isso se torne possível.
 
 
