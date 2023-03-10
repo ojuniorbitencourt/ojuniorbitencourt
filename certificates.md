@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h2, initial-scale=1.0">
+    <title>Certificados</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="README.md">Home</a>
+        </nav>
+    </header>
+    <main class="apresentacao">
+        <section class="apresentacao__conteudo">
+            <h2 class="apresentacao__conteudo__titulo">Certificados</h2>
+            <p class="apresentacao__conteudo__texto">
+                <ul class="apresentacao__conteudo__texto">
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate">Arquitetura de computadores: por trás de como seu programa funciona</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate">Lógica de programação: laços e listas com JavaScript</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/pong-javascript/certificate">Lógica de programação: comece em lógica com o jogo Pong e JavaScript</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/linux-ubuntu/certificate">Linux I: conhecendo e utilizando o terminal</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-responsividade-publicacao-projetos/certificate">HTML e CSS: trabalhando com responsividade e publicação de projetos</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-classes-posicionamento-flexbox/certificate">HTML e CSS: Classes, posicionamento e Flexbox</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-cabecalho-footer-variaveis-css/certificate">HTML e CSS: cabeçalho, footer e variáveis CSS</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-ambiente-arquivos-tags/certificate">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-web-paginas-dinamicas/certificate">JavaScript para Web: Crie páginas dinâmicas</a></li>
+                    <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/git-github-controle-de-versao/certificate">Git e Github: controle e compartilhe seu código</a></li>
+                </ul>
+            </p>
+        </section>
+    </main>
+    <footer class="rodape">
+        <p>Desenvolvido por Júnior Bitencourt.</p>
+    </footer>
+</body>
+</html>

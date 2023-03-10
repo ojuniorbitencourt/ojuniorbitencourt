@@ -8,11 +8,11 @@ Let's connect and build something amazing together!
 ### 🌱 My latest projects: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Discord bot to study programming.<br>
 
-### 💻 Technologies:
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
+### 💻 Skills:
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificates)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificates)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificates)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificates)
 
 ### 📫 How to reach me: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/lfjrb_dev)
