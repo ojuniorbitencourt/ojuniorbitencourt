@@ -1,3 +1,8 @@
+<style>
+.flag{
+    margin: 10px;
+}
+</style>
 
 ## 👨‍💻 Hello there! I'm Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
 I'm a passionate front-end developer with expertise in <strong>JavaScript, HTML, and CSS.</strong><br>
@@ -21,4 +26,4 @@ Let's connect and build something amazing together!
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
 ### 📫 Change the language: <br>
-<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-PT.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-brasil.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
+<a class="flag" href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-PT.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-brasil.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
