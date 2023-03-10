@@ -2,7 +2,7 @@
 # Olá! Eu sou o Júnior Bitencourt! 🖐️
 
 
-- 👨‍💻 Eu sou estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Eu sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER e tenho buscado especialização através dos cursos da Alura.
 - 💼 Atualmente não trabalho na área, mas estou me especializando para que isso se torne possível.
 
 
