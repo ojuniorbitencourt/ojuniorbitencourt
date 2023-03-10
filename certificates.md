@@ -33,8 +33,8 @@
                     </ul>
                 <h2>Lógica</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate?lang=en">Computer architecture: Behind how your program works</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate?lang=en">Programming logic: Loops and lists with JavaScript</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate?lang=en">Computer Architecture: Behind how your program works</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate?lang=en">Programming Logic: Loops and lists with JavaScript</a></li>
                         <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/pong-javascript/certificate?lang=en">Programming Logic: Get Started in Logic with Pong Game and Javascript</a></li>
                     </ul>
             </p>
