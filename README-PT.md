@@ -20,5 +20,5 @@ Vamos nos conectar e construir algo incrível juntos!
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/lfjrb_dev)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
-### 📫 Change de language: <br>
+### 📫 Change the language: <br>
 <a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
