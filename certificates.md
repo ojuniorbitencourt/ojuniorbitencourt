@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,32 +10,32 @@
     </header>
     <main>
         <section>
-            <h1>Certificados</h1>
+            <h1>Certificates</h1>
             <p>
-                <h2> HTML e CSS</h2>
+                <h2> HTML and CSS</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-responsividade-publicacao-projetos/certificate">HTML e CSS: trabalhando com responsividade e publicação de projetos</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-classes-posicionamento-flexbox/certificate">HTML e CSS: Classes, posicionamento e Flexbox</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-cabecalho-footer-variaveis-css/certificate">HTML e CSS: cabeçalho, footer e variáveis CSS</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-ambiente-arquivos-tags/certificate">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-responsividade-publicacao-projetos/certificate?lang=en">HTML and CSS: working with responsiveness and project publishing</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-classes-posicionamento-flexbox/certificate?lang=en">HTML and CSS: Classes, Positioning and Flexbox</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-cabecalho-footer-variaveis-css/certificate?lang=en">HTML and CSS: header, footer and CSS variables</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-ambiente-arquivos-tags/certificate?lang=en">HTML and CSS: development environments, file structure and tags</a></li>
                     </ul>
                 <h2>JavaScript</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-web-paginas-dinamicas/certificate">JavaScript para Web: Crie páginas dinâmicas</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-web-paginas-dinamicas/certificate?lang=en">JavaScript for the Web: Create Dynamic Pages</a></li>
                     </ul>
                 <h2>Linux</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/linux-ubuntu/certificate">Linux I: conhecendo e utilizando o terminal</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/linux-ubuntu/certificate?lang=en">Linux I: getting to know and using the terminal</a></li>
                     </ul>
                 <h2>Git e GitHub</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/git-github-controle-de-versao/certificate">Git e Github: controle e compartilhe seu código</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/git-github-controle-de-versao/certificate?lang=en">Git and Github: Control and Share Your Code</a></li>
                     </ul>
                 <h2>Lógica</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate">Arquitetura de computadores: por trás de como seu programa funciona</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate">Lógica de programação: laços e listas com JavaScript</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/pong-javascript/certificate">Lógica de programação: comece em lógica com o jogo Pong e JavaScript</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate?lang=en">Computer architecture: behind how your program works</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate?lang=en">Programming logic: loops and lists with JavaScript</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/pong-javascript/certificate?lang=en">Programming Logic: Get Started in Logic with Pong Game and Javascript</a></li>
                     </ul>
             </p>
         </section>
