@@ -8,7 +8,7 @@ Vamos nos conectar e construir algo incrível juntos!
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
 
-### 💻 Habilidades:
+### 💻 Clique para visualizar os certificados:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
