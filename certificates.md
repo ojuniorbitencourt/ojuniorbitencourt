@@ -14,10 +14,10 @@
             <p>
                 <h2> HTML and CSS</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-responsividade-publicacao-projetos/certificate?lang=en">HTML and CSS: working with responsiveness and project publishing</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-responsividade-publicacao-projetos/certificate?lang=en">HTML and CSS: Working with responsiveness and project publishing</a></li>
                         <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-classes-posicionamento-flexbox/certificate?lang=en">HTML and CSS: Classes, Positioning and Flexbox</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-cabecalho-footer-variaveis-css/certificate?lang=en">HTML and CSS: header, footer and CSS variables</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-ambiente-arquivos-tags/certificate?lang=en">HTML and CSS: development environments, file structure and tags</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-cabecalho-footer-variaveis-css/certificate?lang=en">HTML and CSS: Header, footer and CSS variables</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/html-css-ambiente-arquivos-tags/certificate?lang=en">HTML and CSS: Development environments, file structure and tags</a></li>
                     </ul>
                 <h2>JavaScript</h2>
                     <ul>
@@ -25,7 +25,7 @@
                     </ul>
                 <h2>Linux</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/linux-ubuntu/certificate?lang=en">Linux I: getting to know and using the terminal</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/linux-ubuntu/certificate?lang=en">Linux I: Getting to know and using the terminal</a></li>
                     </ul>
                 <h2>Git e GitHub</h2>
                     <ul>
@@ -33,8 +33,8 @@
                     </ul>
                 <h2>Lógica</h2>
                     <ul>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate?lang=en">Computer architecture: behind how your program works</a></li>
-                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate?lang=en">Programming logic: loops and lists with JavaScript</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/arquitetura-computadores-funcionamento-programa/certificate?lang=en">Computer architecture: Behind how your program works</a></li>
+                        <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/javascript-listas-lacos/certificate?lang=en">Programming logic: Loops and lists with JavaScript</a></li>
                         <li><a href="https://cursos.alura.com.br/user/ojuniorbitencourt/course/pong-javascript/certificate?lang=en">Programming Logic: Get Started in Logic with Pong Game and Javascript</a></li>
                     </ul>
             </p>
