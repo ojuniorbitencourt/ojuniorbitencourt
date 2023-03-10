@@ -5,6 +5,8 @@ I'm always seeking new challenges to hone my skills and expand my knowledge. I s
 When I'm not coding, you'll find me exploring new tech trends, experimenting with new tools and frameworks, or contributing to open-source projects.<br>
 Let's connect and build something amazing together!
 
+<a href="https://portfolio-kappa-sepia-73.vercel.app/index.html">Click here</a> to access my portfolio developed with HTML and CSS.
+
 ### 🌱 My latest projects: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Discord bot to study programming.<br>
 

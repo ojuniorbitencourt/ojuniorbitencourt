@@ -5,6 +5,8 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expa
 Quando não estou programando, você me encontra explorando novas tendências tecnológicas, experimentando novas ferramentas e estruturas ou contribuindo para projetos de código aberto.<br>
 Vamos nos conectar e construir algo incrível juntos!
 
+<a href="https://portfolio-kappa-sepia-73.vercel.app/index.html">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
+
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
 
