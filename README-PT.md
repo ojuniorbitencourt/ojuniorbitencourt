@@ -8,7 +8,7 @@ Vamos nos conectar e construir algo incrível juntos!
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
 
-### 💻 Tecnologias:
+### 💻 Certificados:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
@@ -19,4 +19,4 @@ Vamos nos conectar e construir algo incrível juntos!
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
 ### 📫 Change de language: <br>
-<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/bandeira-eua.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
+<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flag-eua.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
