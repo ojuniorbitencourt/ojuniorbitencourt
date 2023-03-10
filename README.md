@@ -1,8 +1,3 @@
-<style>
-.flag{
-    margin: 10px;
-}
-</style>
 
 ## 👨‍💻 Hello there! I'm Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
 I'm a passionate front-end developer with expertise in <strong>JavaScript, HTML, and CSS.</strong><br>
