@@ -10,7 +10,7 @@
     </header>
     <main>
         <section>
-            <h2>Certificados</h2>
+            <h1>Certificados</h1>
             <p>
                 <h2> HTML e CSS</h2>
                     <ul>
