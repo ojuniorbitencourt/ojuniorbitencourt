@@ -5,16 +5,16 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expa
 Quando não estou programando, você me encontra explorando novas tendências tecnológicas, experimentando novas ferramentas e estruturas ou contribuindo para projetos de código aberto.<br>
 Vamos nos conectar e construir algo incrível juntos!
 
-<a href="https://portfolio-kappa-sepia-73.vercel.app/index.html">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
+<a href="https://juniorbitencourt.vercel.app">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
 
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
 
 ### 💻 Clique para visualizar os certificados:
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/certificados.md)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
 
 ### 📫 Como chegar até mim: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/lfjrb_dev)
