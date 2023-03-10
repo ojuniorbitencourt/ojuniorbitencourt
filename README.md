@@ -17,6 +17,7 @@ Let's connect and build something amazing together!
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
 
 ### 📫 How to reach me: <br>
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/lfjrb_dev)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
