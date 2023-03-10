@@ -1,5 +1,5 @@
 
-## 👨‍💻 Hello there! I'm Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
+## 👨‍💻 Hello there! I'm Luiz Fernando Bitencourt Junior {ojuniorbitencourt/lfjrb_dev}!
 I'm a passionate front-end developer with expertise in <strong>JavaScript, HTML, and CSS.</strong><br>
 I'm always seeking new challenges to hone my skills and expand my knowledge. I strive to deliver high-quality code that meets user needs and exceeds expectations.<br>
 When I'm not coding, you'll find me exploring new tech trends, experimenting with new tools and frameworks, or contributing to open-source projects.<br>
