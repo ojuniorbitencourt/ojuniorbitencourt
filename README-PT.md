@@ -1,5 +1,5 @@
 
-## 👨‍💻 Olá! Eu sou o Luiz Fernando Bitencourt Junior {ojuniorbitencourt/lfjrb_dev}!
+## 👨‍💻 Olá! Eu sou o Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
 Sou um desenvolvedor apaixonado por front-end com experiência em <strong>JavaScript, HTML e CSS.</strong><br>
 Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expandir meus conhecimentos. Eu me esforço para entregar um código de alta qualidade que atenda às necessidades do usuário e exceda as expectativas.<br>
 Quando não estou programando, você me encontra explorando novas tendências tecnológicas, experimentando novas ferramentas e estruturas ou contribuindo para projetos de código aberto.<br>
