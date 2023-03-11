@@ -9,6 +9,7 @@ Vamos nos conectar e construir algo incrível juntos!
 
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
+- <a href="https://github.com/ojuniorbitencourt/music-wave">Music-Wave: </a>Animação de onda musical feita com HTML e CSS.<br>
 
 ### 💻 Clique para visualizar os certificados:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
