@@ -8,7 +8,7 @@ Vamos nos conectar e construir algo incrível juntos!
 <a href="https://juniorbitencourt.vercel.app">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
 
 ### 🌱 Meus últimos projetos: <br>
-- <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks: Site desenvolvido durante o curso de HTML5 e CSS3 da Alura.</a><br>
+- <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks: <a>Site desenvolvido durante o curso de HTML5 e CSS3 da Alura.</a><br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação.<br>
 - <a href="https://github.com/ojuniorbitencourt/music-wave">Music-Wave: </a>Animação de onda musical feita com HTML e CSS.<br>
 
