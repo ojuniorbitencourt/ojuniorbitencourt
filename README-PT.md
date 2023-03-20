@@ -5,7 +5,7 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expa
 Quando não estou programando, você me encontra explorando novas tendências tecnológicas, experimentando novas ferramentas e estruturas ou contribuindo para projetos de código aberto.<br>
 Vamos nos conectar e construir algo incrível juntos!
 
-<a href="https://lfjrb.vercel.app">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
+<a href="https://portfolio-3-ojuniorbitencourt.vercel.app/">Click aqui</a> para acessar o meu portfólio desenvolvido com HTML e CSS.
 
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks: <a>Site desenvolvido durante o curso de HTML5 e CSS3 da Alura.</a><br>
