@@ -6,9 +6,9 @@ Quando não estou programando, você me encontra explorando novas tendências te
 Vamos nos conectar e construir algo incrível juntos!
 
 ### 🌱 Meus últimos projetos: <br>
-- <a href="https://portfolio-3-sigma.vercel.app/"><a>Portfolio:</a> Portfólio pessoal criado com HTML, CSS e JavaScript<br>
-- <a href="https://globalseg.vercel.app/"><a>Global Seg:</a> Website para empresa de segurança<br>
-- <a href="https://robotron-ojuniorbitencourt.vercel.app/"><a>Robotron:</a> Projeto para aprender JavaScript<br>
+- <a href="https://portfolio-3-sigma.vercel.app/">Portfolio:</a> Portfólio pessoal criado com HTML, CSS e JavaScript<br>
+- <a href="https://globalseg.vercel.app/">Global Seg:</a> Website para empresa de segurança<br>
+- <a href="https://robotron-ojuniorbitencourt.vercel.app/">Robotron:</a> Projeto para aprender JavaScript<br>
 - <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks:</a> Site desenvolvido durante o curso de HTML5 e CSS3 da Alura<br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação<br>
 
