@@ -5,12 +5,12 @@ I'm always seeking new challenges to hone my skills and expand my knowledge. I s
 When I'm not coding, you'll find me exploring new tech trends, experimenting with new tools and frameworks, or contributing to open-source projects.<br>
 Let's connect and build something amazing together!
 
-<a href="https://portfolio-3-ojuniorbitencourt.vercel.app/">Click here</a> to access my portfolio developed with HTML and CSS.
-
 ### 🌱 My latest projects: <br>
-- <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks: <a>Site developed during the Alura's course of HTML5 and CSS3.</a><br>
-- <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Discord bot to study programming.<br>
-- <a href="https://github.com/ojuniorbitencourt/music-wave">Music-Wave: </a>Musical wave animation made with HTML and CSS.<br>
+- <a href="https://portfolio-3-sigma.vercel.app/"><a>Portfolio:</a> Personal portfolio created with HTML, CSS and JavaScript<br>
+- <a href="https://globalseg.vercel.app/"><a>Global Seg:</a> Security company website<br>
+- <a href="https://robotron-ojuniorbitencourt.vercel.app/"><a>Robotron:</a> Project to learn JavaScript<br>
+- <a href="https://alurabooks-one-sigma.vercel.app/">AluraBooks:</a> Project to learn HTML5 and CSS3<br>
+- <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Discord bot to study programming<br>
 
 ### 💻 Click to view certificates:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
