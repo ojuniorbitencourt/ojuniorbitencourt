@@ -5,6 +5,9 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expa
 Quando não estou programando, você me encontra explorando novas tendências tecnológicas, experimentando novas ferramentas e estruturas ou contribuindo para projetos de código aberto.<br>
 Vamos nos conectar e construir algo incrível juntos!
 
+### 🎓 Minhas formações:
+- <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
+
 ### 🌱 Meus últimos projetos: <br>
 - <a href="https://lfjrb.vercel.app/">Portfolio:</a> Portfólio pessoal criado com HTML, CSS e JavaScript<br>
 - <a href="https://globalseg.vercel.app/">Global Seg:</a> Website para empresa de segurança<br>
@@ -12,11 +15,11 @@ Vamos nos conectar e construir algo incrível juntos!
 - <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks:</a> Site desenvolvido durante o curso de HTML5 e CSS3 da Alura<br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação<br>
 
-### 💻 Clique para visualizar os certificados:
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://juniorbitencourt.vercel.app/certificados.html)
+### 💻 Habilidades:
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)]()
 
 ### 📫 Como chegar até mim: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
