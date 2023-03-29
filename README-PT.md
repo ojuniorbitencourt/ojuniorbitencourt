@@ -16,10 +16,10 @@ Vamos nos conectar e construir algo incrível juntos!
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação<br>
 
 ### 💻 Habilidades:
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)]()
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)]()
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)]()
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 
 ### 📫 Como chegar até mim: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
