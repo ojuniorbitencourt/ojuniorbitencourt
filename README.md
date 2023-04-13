@@ -9,6 +9,7 @@ Let's connect and build something amazing together!
 - <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
 
 ### 🌱 My latest projects: <br>
+- <a href="https://numero-secreto-jr.netlify.app/">Secret Number: </a>Game created with JavaScript<br>
 - <a href="https://lfjrb.vercel.app/">Portfolio:</a> Personal portfolio created with HTML, CSS and JavaScript<br>
 - <a href="https://globalseg.vercel.app/">Global Seg:</a> Security company website<br>
 - <a href="https://robotron-ojuniorbitencourt.vercel.app/">Robotron:</a> Project to learn JavaScript<br>
