@@ -11,7 +11,7 @@ Let's connect and build something amazing together!
 ### 🌱 My latest projects: <br>
 - <a href="https://github.com/ojuniorbitencourt/numero-secreto">Secret Number: </a>Game created with JavaScript<br>
 - <a href="https://github.com/ojuniorbitencourt/mochila-de-viagem">Travel Bag: </a>Created with JavaScript<br>
-- <a href="https://lfjrb.vercel.app/">Portfolio:</a> Personal portfolio created with HTML, CSS and JavaScript<br>
+- <a href="https://juniorbitencort.com.br/">Portfolio:</a> Personal portfolio created with HTML, CSS and JavaScript<br>
 - <a href="https://globalseg-rs.com.br/">Global Seg:</a> Security company website<br>
 - <a href="https://robotron-ojuniorbitencourt.vercel.app/">Robotron:</a> Project to learn JavaScript<br>
 - <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks:</a> Project to learn HTML5 and CSS3<br>
