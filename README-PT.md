@@ -12,7 +12,7 @@ Vamos nos conectar e construir algo incrível juntos!
 - <a href="https://github.com/ojuniorbitencourt/numero-secreto">Número Secreto: </a>Jogo criado com JavaScript<br>
 - <a href="https://github.com/ojuniorbitencourt/mochila-de-viagem">Mochila de Viagem: </a>Criado com JavaScript<br>
 - <a href="https://lfjrb.vercel.app/">Portfolio:</a> Portfólio pessoal criado com HTML, CSS e JavaScript<br>
-- <a href="https://globalseg.vercel.app/">Global Seg:</a> Website para empresa de segurança<br>
+- <a href="https://globalseg-rs.com.br/">Global Seg:</a> Website para empresa de segurança<br>
 - <a href="https://robotron-ojuniorbitencourt.vercel.app/">Robotron:</a> Projeto para aprender JavaScript<br>
 - <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks:</a> Site desenvolvido durante o curso de HTML5 e CSS3 da Alura<br>
 - <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Bot de discord para estudar programação<br>
