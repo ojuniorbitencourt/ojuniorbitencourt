@@ -1,4 +1,4 @@
-<a href="https://juniorbitencourt.com.br" target="_blink"><img width=100% src="./flags/banner.svg"></a>
+<a href="https://juniorbitencourt.com.br" target="_blank"><img width=100% src="./flags/banner.svg"></a>
 <div align="left">
     <p>
         Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Graduando em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, como por exemplo a <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt"><strong>Alura</strong></a>, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.
@@ -20,7 +20,7 @@
     </p>
 </div>
 <div align="center">
-    <h2 align="left"><strong>💻 Habilidades em desenvolvimento:</strong></h2>
+    <h2><strong>💻 Algumas das habilidades em desenvolvimento:</strong></h2>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -29,7 +29,7 @@
 <div align="center"> 
   <br>
   <br>
-  <br>
+    <h2><strong>✉️ Como me encontrar:</strong></h2>
     <a href="https://instagram.com/ojuniorbitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://wa.me/5555999158869" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href = "mailto:contato@juniorbitencourt.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
