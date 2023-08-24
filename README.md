@@ -7,16 +7,16 @@
         Minha jornada me transformou em um desenvolvedor comprometido com o front-end, com foco em JavaScript, HTML, CSS, PHP e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.
     </p>
     <p>
-        Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.<br>
+        Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.
     </p>
     <p>
-        Além do desenvolvimento, tenho uma paixão por explorar as mais recentes tendências tecnológicas. Quando não estou imerso em código, estou experimentando novas ferramentas e estruturas, buscando constantemente inovação. Contribuir para projetos de código aberto também é uma forma pela qual desejo expressar meu comprometimento com a comunidade tech.<br>
+        Além do desenvolvimento, tenho uma paixão por explorar as mais recentes tendências tecnológicas. Quando não estou imerso em código, estou experimentando novas ferramentas e estruturas, buscando constantemente inovação. Contribuir para projetos de código aberto também é uma forma pela qual desejo expressar meu comprometimento com a comunidade tech.
     </p>
     <p>
-        Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade.<br>
+        Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade.
     </p>
     <p>
-        Vamos conectar e construir o futuro!<br>
+        Vamos conectar e construir o futuro!
     </p>
 </div>
 
