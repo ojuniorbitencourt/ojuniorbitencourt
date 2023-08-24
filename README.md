@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <div align="center">
-    <h2><strong>💻 Algumas das habilidades em desenvolvimento:</strong></h2>
     <img src="https://streak-stats.demolab.com?user=ojuniorbitencourt&theme=dark"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuniorbitencourt&theme=dark&hide_progress=true">
 </div>
