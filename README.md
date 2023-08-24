@@ -24,15 +24,12 @@
     <p><strong>💻 ##Habilidades:</strong></p>
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img width="50px" height="50px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img width="50px" height="50px" src=""/>
-    <img width="50px" height="50px" src=""/>
-    <img width="50px" height="50px" src=""/>
 </div>
 
 <div align="center">
     <p><strong>📫 ##Contato:</strong></p>
-    <a href=""><i class='bx bxl-linkedin'></i></a>
-    <img width="50px" height="50px" src=""/>
+    <a href=""><img width="50px" height="50px" src=""/></a>
+    
 </div>
 
 ### 📫 Como chegar até mim: <br>
