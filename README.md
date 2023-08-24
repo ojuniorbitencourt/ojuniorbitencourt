@@ -1,4 +1,4 @@
-<img width=100% src="./flags/banner.svg">
+<a href="https://juniorbitencourt.com.br"><img width=100% src="./flags/banner.svg"></a>
 
 Olá! Me chamo **Luiz Fernando Santos Bitencourt Júnior**, mais conhecido por **Júnior Bitencourt**. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Sou um graduando entusiasta em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.<br>
 
