@@ -1,28 +1,27 @@
+## 👨‍💻 Olá! Eu sou o Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
+Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Sou um graduando entusiasta em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.<br>
 
-## 👨‍💻 Hello there! I'm Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
-Hello! My name is Luiz Fernando Santos Bitencourt Júnior, better known as Júnior Bitencourt. I live in São Sepé, Rio Grande do Sul. I'm an enthusiastic undergraduate student in Analysis and Systems Development at Uninter, passionate about exploring the world of technology. My educational journey is complemented by online courses, where I enhance acquired knowledge and constantly discover new possibilities.<br>
+Minha jornada me transformou em um desenvolvedor comprometido com o front-end, foccom foco em linguagens como JavaScript, HTML, CSS, e também tenho aquirido experiência em PHP, Python e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.<br>
 
-My journey has shaped me into a frontend-focused developer, with a strong command of languages such as JavaScript, HTML, CSS, and I have also gained experience in PHP, Python, and MySQL. My dedication to these languages reflects my pursuit of excellence in development.<br>
+Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.<br>
 
-I'm always ready to take on new challenges, as I believe that each obstacle is an opportunity to enhance my skills and expand my knowledge. My mission is to deliver high-quality code that not only meets user needs but also exceeds their expectations.<br>
+Além do desenvolvimento, tenho uma paixão por explorar as mais recentes tendências tecnológicas. Quando não estou imerso em código, estou experimentando novas ferramentas e estruturas, buscando constantemente inovação. Contribuir para projetos de código aberto também é uma forma pela qual desejo expressar meu comprometimento com a comunidade tech.
+<br>
+Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade. Vamos conectar e construir o futuro!<br>
 
-Beyond development, I have a passion for exploring the latest technological trends. When I'm not immersed in code, I'm experimenting with new tools and frameworks, constantly seeking innovation. Contributing to open-source projects is also a way in which I aim to express my commitment to the tech community.<br>
-
-I'm excited to connect with fellow professionals and build something amazing together. If you share this passion for technology and exceptional development, let's embark on this journey together and create solutions that turn ideas into reality. Let's connect and build the future!<br>
-
-### 🎓 Certificates:
+### 🎓 Certificados:
 - <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
 
-### 💻 Skills:
+### 💻 Habilidades:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 
-### 📫 How to reach me: <br>
+### 📫 Como chegar até mim: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
 ### 📫 Change the language: <br>
-<a class="flag" href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-PT.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-brasil.png" width="50px" align="left" alt="Turn Lenguage Portugues" style="max-width: 100%;"></a>
+<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-PT.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
