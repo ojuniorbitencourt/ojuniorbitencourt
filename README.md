@@ -26,8 +26,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
-<div align="center"> 
-  <br>
+<div align="center">
   <br>
     <h2><strong>✉️ Como me encontrar:</strong></h2>
     <a href="https://instagram.com/ojuniorbitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -35,6 +34,3 @@
     <a href = "mailto:contato@juniorbitencourt.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
     <a href="https://www.linkedin.com/in/lfjrb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
-<br>
-
-<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 50%;"></a>
