@@ -38,10 +38,11 @@
   <br>
   <br>
   <br>
-<a href="https://instagram.com/ojuniorbitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://contate.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@juniorbitencourt.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
-<a href="https://www.linkedin.com/in/lfjrb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div> 
+    <a href="https://instagram.com/ojuniorbitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://wa.me/5555999158869" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contato@juniorbitencourt.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lfjrb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+<br>
 
-<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
+<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 50%;"></a>
