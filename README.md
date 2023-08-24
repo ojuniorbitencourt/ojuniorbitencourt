@@ -24,4 +24,4 @@ Estou animado para conectar-me com outros profissionais e construir algo incrív
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
 ### 📫 Change the language: <br>
-<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-PT.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
+<a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
