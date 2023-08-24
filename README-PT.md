@@ -10,7 +10,7 @@ Além do desenvolvimento, tenho uma paixão por explorar as mais recentes tendê
 <br>
 Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade. Vamos conectar e construir o futuro!<br>
 
-### 🎓 Minhas formações:
+### 🎓 Certificados:
 - <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
 
 ### 💻 Habilidades:

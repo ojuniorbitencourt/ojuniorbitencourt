@@ -13,15 +13,6 @@ I'm excited to connect with fellow professionals and build something amazing tog
 ### 🎓 Certificates:
 - <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
 
-### 🌱 My latest projects: <br>
-- <a href="https://github.com/ojuniorbitencourt/numero-secreto">Secret Number: </a>Game created with JavaScript<br>
-- <a href="https://github.com/ojuniorbitencourt/mochila-de-viagem">Travel Bag: </a>Created with JavaScript<br>
-- <a href="https://juniorbitencourt.com.br/">Portfolio:</a> Personal portfolio created with HTML, CSS and JavaScript<br>
-- <a href="https://globalseg-rs.com.br/">Global Seg:</a> Security company website<br>
-- <a href="https://robotron-ojuniorbitencourt.vercel.app/">Robotron:</a> Project to learn JavaScript<br>
-- <a href="https://github.com/ojuniorbitencourt/alurabooks">AluraBooks:</a> Project to learn HTML5 and CSS3<br>
-- <a href="https://github.com/ojuniorbitencourt/studify">Studify: </a>Discord bot to study programming<br>
-
 ### 💻 Skills:
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=000000&text=true)](https://github.com/ojuniorbitencourt)
