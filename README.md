@@ -1,9 +1,9 @@
 <a href="https://juniorbitencourt.com.br" target="_blink"><img width=100% src="./flags/banner.svg"></a>
 <div align="center">
     <p>
-        Olá! Me chamo **Luiz Fernando Santos Bitencourt Júnior**, mais conhecido por **Júnior Bitencourt**. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Graduando em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, como por exemplo a <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.
+        Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Graduando em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, como por exemplo a <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt"><strong>Alura</strong></a>, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.
     </p>
-    
+
     Minha jornada me transformou em um desenvolvedor comprometido com o front-end, com foco em JavaScript, HTML, CSS, PHP e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.<br>
 
     Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.<br>
