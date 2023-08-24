@@ -21,15 +21,20 @@
 </div>
 
 <div align="center">
-    <p><strong>💻 Habilidades:</strong></p>
+    <p><strong>💻 ##Habilidades:</strong></p>
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img width="50px" height="50px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-### 📫 Como chegar até mim: <br>
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/ojuniorbitencourt)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
+<div align="center">
+    <p><strong>📫 ##Contato:</strong></p>
+    <img width="50px" height="50px" src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false"/>
+    <img width="50px" height="50px" src="https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false"/>
+    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
+    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/ojuniorbitencourt)
+</div>
 
-### 📫 Change the language: <br>
+### 📫 Como chegar até mim: <br>
+
+
 <a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
