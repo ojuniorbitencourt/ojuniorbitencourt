@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ojuniorbitencourt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ojuniorbitencourt&theme=dark)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojuniorbitencourt&theme=dark&hide_progress=true)
 
 <div align="center">
