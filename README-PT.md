@@ -1,14 +1,14 @@
 
 ## 👨‍💻 Olá! Eu sou o Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
-Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Moro em São Sepé, Rio Grande do Sul. Sou um graduando entusiasta em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.<br><br>
+Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Moro em São Sepé, Rio Grande do Sul. Sou um graduando entusiasta em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.<br>
 
-Minha jornada me transformou em um desenvolvedor comprometido com o front-end, foccom foco em linguagens como JavaScript, HTML, CSS, e também tenho aquirido experiência em PHP, Python e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.<br><br>
+Minha jornada me transformou em um desenvolvedor comprometido com o front-end, foccom foco em linguagens como JavaScript, HTML, CSS, e também tenho aquirido experiência em PHP, Python e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.<br>
 
-Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.<br><br>
+Estou sempre pronto para enfrentar novos desafios, pois acredito que cada obstáculo é uma oportunidade para aprimorar minhas habilidades e expandir meus conhecimentos. Minha missão é entregar código de alta qualidade, que não apenas atenda às necessidades dos usuários, mas também supere suas expectativas.<br>
 
 Além do desenvolvimento, tenho uma paixão por explorar as mais recentes tendências tecnológicas. Quando não estou imerso em código, estou experimentando novas ferramentas e estruturas, buscando constantemente inovação. Contribuir para projetos de código aberto também é uma forma pela qual desejo expressar meu comprometimento com a comunidade tech.
-<br><br>
-Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade. Vamos conectar e construir o futuro!<br><br>
+<br>
+Estou animado para conectar-me com outros profissionais e construir algo incrível juntos. Se você compartilha dessa paixão pela tecnologia e pelo desenvolvimento excepcional, vamos iniciar essa jornada juntos e criar soluções que transformam ideias em realidade. Vamos conectar e construir o futuro!<br>
 
 ### 🎓 Minhas formações:
 - <a href="https://cursos.alura.com.br/vitrinedev/ojuniorbitencourt">Alura</a>
