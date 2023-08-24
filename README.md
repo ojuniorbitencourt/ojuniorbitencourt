@@ -21,7 +21,7 @@ I'm excited to connect with fellow professionals and build something amazing tog
 
 ### 📫 How to reach me: <br>
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/lfjrb_dev)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/ojuniorbitencourt)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&fill=000000&text=false)](https://twitter.com/lfjrb_dev)
 
 ### 📫 Change the language: <br>
