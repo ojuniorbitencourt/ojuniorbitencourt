@@ -24,14 +24,15 @@
     <p><strong>💻 ##Habilidades:</strong></p>
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img width="50px" height="50px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img width="50px" height="50px" src=""/>
+    <img width="50px" height="50px" src=""/>
+    <img width="50px" height="50px" src=""/>
 </div>
 
 <div align="center">
     <p><strong>📫 ##Contato:</strong></p>
-    <img width="50px" height="50px" src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false"/>
-    <img width="50px" height="50px" src="https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false"/>
-    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=000000&text=false)](https://www.linkedin.com/in/lfjrb/)
-    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&fill=000000&text=false)](https://instagram.com/ojuniorbitencourt)
+    <a href=""><i class='bx bxl-linkedin'></i></a>
+    <img width="50px" height="50px" src=""/>
 </div>
 
 ### 📫 Como chegar até mim: <br>
