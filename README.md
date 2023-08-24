@@ -1,4 +1,6 @@
 ## 👨‍💻 Olá! Eu sou o Junior Bitencourt {ojuniorbitencourt/lfjrb_dev}!
+
+<img src="./flags/banner.svg">
 Olá! Me chamo Luiz Fernando Santos Bitencourt Júnior, mais conhecido por Júnior Bitencourt. Tenho 28 anos e moro em São Sepé, Rio Grande do Sul. Sou um graduando entusiasta em Análise e Desenvolvimento de Sistemas pela Uninter, apaixonado por explorar o mundo da tecnologia. Meu percurso educacional é complementado por cursos online, onde aprimoro os conhecimentos adquiridos e constantemente descubro novas possibilidades.<br>
 
 Minha jornada me transformou em um desenvolvedor comprometido com o front-end, foccom foco em linguagens como JavaScript, HTML, CSS, e também tenho aquirido experiência em PHP, Python e MySQL. Minha dedicação a essas linguagens reflete minha busca por excelência no desenvolvimento.<br>
