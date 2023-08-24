@@ -19,21 +19,12 @@
         Vamos conectar e construir o futuro!
     </p>
 </div>
-
 <div align="center">
     <p><strong>💻 ##Habilidades:</strong></p>
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-    <img width="50px" height="50px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 </div>
-
-<div align="center">
-    <p><strong>📫 ##Contato:</strong></p>
-    
-    
-</div>
-
-### 📫 Como chegar até mim: <br>
-
 <div align="center"> 
   <br>
   <br>
