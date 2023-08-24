@@ -28,11 +28,20 @@
 
 <div align="center">
     <p><strong>📫 ##Contato:</strong></p>
-    <a href=""><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAO1JREFUSEvdldENwjAMRK+bwCYwCTAJMAlsApvAJqBX1dVRKVWSthKqf/oRx893cdJGC0ezcH2tC7CTdJO0mWjbW9JJ0pM6btFDEpA5Ash2CPh0lVkgoSZQ/+o2ts27ggBQ/C7pWkhAPS5EJAGRcCmAnCWR75EEkBjJqNmPWIYlDEacne9NAlhgI3L5/kyFteiWeE5YPQqgDsWRfuwgfi5uCeOIyohsQEAOZhkW0LlbMhyGIkB0hQq89qDr9jINogoQauKm9zd1TkDutahW8P+AOR+7fnT9LWL0mO+pL2ryuc71uChvXb/MIum5yV+tRDwZkq90agAAAABJRU5ErkJggg=="/></a>
+    
     
 </div>
 
 ### 📫 Como chegar até mim: <br>
 
+<div align="center"> 
+  <br>
+  <br>
+  <br>
+<a href="https://instagram.com/ojuniorbitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://contate.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@juniorbitencourt.com.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+<a href="https://www.linkedin.com/in/lfjrb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div> 
 
 <a href="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/README-EN.md"><img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/flags/flag-eua.png" width="50px" align="left" alt="Turn Language to English" style="max-width: 100%;"></a>
