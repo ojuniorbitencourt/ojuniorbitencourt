@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LFBJR - Hello Friend</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background-color: #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    .glitch {
+      font-size: 48px;
+      color: #fff;
+      position: relative;
+      text-transform: uppercase;
+      animation: flicker 0.12s infinite alternate;
+      letter-spacing: 2px;
+    }
+
+    @keyframes flicker {
+      0% {
+        opacity: 1;
+        text-shadow:
+          0 0 2px #fff,
+          0 0 4px #0ff,
+          0 0 8px #0ff;
+      }
+      50% {
+        opacity: 0.6;
+        text-shadow:
+          0 0 1px #fff,
+          0 0 2px #0ff,
+          0 0 4px #0ff;
+      }
+      100% {
+        opacity: 0.9;
+        text-shadow:
+          0 0 2px #fff,
+          0 0 6px #0ff,
+          0 0 10px #0ff;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="glitch">Hello Friend</div>
+</body>
+</html>
