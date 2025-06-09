@@ -1,7 +1,7 @@
 
 <!-- 🔥 LFBJR | Next-Level GitHub Profile Experience -->
 <div align="center">
-  <img src="https://ojuniorbitencourt.github.io/hello-friend" width="100%" alt="Animated Banner"/>
+  <img src="https://ojuniorbitencourt.github.io/hello-friend" width="100%"/>
 </div>
 
 <h1 align="center">
