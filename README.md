@@ -2,7 +2,7 @@
 <!-- 🧠 LFJRB | Visual GitHub Profile - Clean, Animated & Impressive -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=LFJRB" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=LFBJR" alt="Typing Header" />
 </div>
 
 <div align="center">
