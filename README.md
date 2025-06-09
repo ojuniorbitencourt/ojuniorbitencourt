@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lfbjr/lfbjr/main/assets/lfbjr_animated_banner.svg" width="100%" alt="Animated Banner"/>
+  <img src="https://raw.githubusercontent.com/ojuniorbitencourt/ojuniorbitencourt/main/assets/lfbjr_animated_banner.svg" width="100%" alt="Animated Banner"/>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ## ⚙️ Interativos
 
 <p align="center">
-  <a href="https://github.com/lfbjr">
+  <a href="https://github.com/ojuniorbitencourt">
     <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat-square&logo=github&logoColor=white&color=24292F" />
   </a>
   <a href="https://lfbjr.dev">
@@ -36,8 +36,8 @@
 ## 📊 Dinâmica de Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfbjr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbjr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojuniorbitencourt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuniorbitencourt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
