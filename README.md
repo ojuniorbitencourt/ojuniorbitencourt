@@ -2,7 +2,7 @@
 <!-- 🔥 LFBJR | Next-Level GitHub Profile Experience -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+the+Repository+of;LFBJR+-+Digital+Precision" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+the+Repository+of" alt="Typing Header" />
 </h1>
 
 <div align="center">
