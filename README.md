@@ -1,80 +1,73 @@
 
-<!-- ⚡️ LFJRB | Surreal GitHub Profile - A Developer From Another Reality -->
+<!-- 👨‍💻 LFJRB | Professional GitHub Profile -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=LFJRB+-+Beyond+Full+Stack;Architect+of+Invisible+Systems;Code+with+Consciousness;Simplicity+is+the+Ultimate+Power" alt="Typing Banner" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lfjrb/assets/main/surreal-banner.svg" width="100%" alt="Surreal Tech Banner" />
-</div>
-
----
-
-## 🧠 Manifesto de Codificação
-
-> "Eu não programo. Eu conecto ideias com estruturas invisíveis que se moldam ao tempo, contexto e consciência."
-
----
-
-## 🧬 Identidade
-
-```ts
-export const LFJRB = {
-  espécie: "Codificador Interdimensional",
-  especialidade: ["Sistemas que se adaptam", "Integrações que respiram", "Códigos que evoluem"],
-  tecnologias: ["Next.js", "NeonDB", "Prisma", "TailwindCSS", "Vercel", "Intuição"],
-  assinatura: "Código mínimo. Consciência máxima."
-}
-```
-
----
-
-## 🛠️ Tecnologias que Flutuam em Meu Universo
+<h1 align="center">LFJRB</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,postgres,prisma,tailwind,vercel,linux" />
+  <em>Desenvolvedor Full Stack focado em soluções empresariais modernas, seguras e escaláveis.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
-## 🌌 O que estou moldando agora
+## 🧑‍💼 Sobre mim
 
-```md
-🧠 Uma IA pessoal que acompanha seus pensamentos como um segundo cérebro
-📡 Um sistema ERP que não gerencia empresas, mas as evolui
-🌀 Um backend capaz de registrar realidades com rastreabilidade dimensional
-🧭 Um frontend que entende o tempo, não só a tela
+Sou desenvolvedor full stack com experiência sólida na criação de sistemas completos — do banco de dados à interface final. Atuo com foco em:
+
+- 🧠 Arquitetura de sistemas personalizados
+- 🔐 Segurança e auditoria de dados
+- ⚡️ Performance e escalabilidade
+- 🤖 Integrações com IA e automações
+
+---
+
+## 🛠️ Stack principal
+
+```ts
+const stack = [
+  "Next.js",
+  "TypeScript",
+  "PostgreSQL",
+  "Prisma ORM",
+  "TailwindCSS",
+  "WSL + Linux Environment"
+]
 ```
 
 ---
 
-## 🌀 Estatísticas Transdimensionais
+## 📦 Projetos de destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfjrb&show_icons=true&theme=merko&hide_border=true&title_color=00f7ff&icon_color=00f7ff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjrb&layout=compact&theme=merko&hide_border=true" width="48%"/>
-</div>
-
----
-
-## 🧭 Pontos de Conexão
-
-```bash
-🌐 Website: lfjrb.dev
-📡 Email: dev@lfjrb.dev
-🔗 LinkedIn: linkedin.com/in/lfjrb
-🧠 X/Twitter: @lfjrb_tech
-```
+- **ERP para empresas de segurança** com controle técnico, auditoria e estoque
+- **Sistema neural pessoal** para registro de atividades e produtividade
+- **APIs modulares** com autenticação e permissões detalhadas
 
 ---
 
-## ✨ Traço Final
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br/>
-  <strong><em>LFJRB é o ponto entre o caos da mente e a ordem do sistema.</em></strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=lfjrb&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjrb&layout=compact&theme=default&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Contato
+
+- 🌍 Site: [lfjrb.dev](https://lfjrb.dev)
+- 📧 Email: dev@lfjrb.dev
+- 💼 LinkedIn: [linkedin.com/in/lfjrb](https://linkedin.com/in/lfjrb)
+
+---
+
+<p align="center">
+  <em>Comprometido com soluções inteligentes que fazem a diferença no mundo real.</em>
 </p>
