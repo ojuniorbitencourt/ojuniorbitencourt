@@ -34,5 +34,5 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=7BFFB7&center=true&vCenter=true&width=650&lines=;Design+Clean.;Interações+Sutis.;Animações+de+Impacto.;Você+chegou+no+GitHub+do+LFJRB." />
+  <img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/img-1.png?font=Fira+Code&weight=400&size=18&pause=3000&color=7BFFB7&center=true&vCenter=true&width=650&lines=;Design+Clean.;Interações+Sutis.;Animações+de+Impacto.;Você+chegou+no+GitHub+do+LFJRB." />
 </p>
