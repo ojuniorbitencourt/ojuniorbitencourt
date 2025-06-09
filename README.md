@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ojuniorbitencourt/ojuniorbitencourt/main/assets/lfbjr_animated_banner.svg" width="100%" alt="Animated Banner"/>
+  <img src="https://github.com/ojuniorbitencourt/ojuniorbitencourt/blob/main/gif.svg" width="100%" alt="Animated Banner"/>
 </div>
 
 ---
